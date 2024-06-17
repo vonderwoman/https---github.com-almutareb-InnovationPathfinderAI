@@ -1,0 +1,49 @@
+Personal Financial Statement
+
+Personal Balance Sheet as of
+
+Assets                     | Amount   | Remarks
+----------------------------------------------
+Assets 1                   | $800     |
+Assets 2                   | $1,200   |
+Assets 3                   | $4,000   |
+Assets 4                   | $1,500   |
+Assets 5                   | $9,000   |
+Assets 6                   | $3,000   |
+----------------------------------------------
+Total Assets               | $19,500  |
+
+Liabilities                | Amount   | Remarks
+----------------------------------------------
+Liabilities 1              | $2,000   |
+Liabilities 2              | $1,500   |
+Liabilities 3              | $3,000   |
+Liabilities 4              | $300     |
+Liabilities 5              | $1,800   |
+----------------------------------------------
+Total Liabilities          | $8,600   |
+Net Worth                  | $10,900  |
+
+Personal Income Statement for the year
+
+Income                     | Amount   | Remarks
+----------------------------------------------
+Income 1                   | $9,000   |
+Income 2                   | $1,500   |
+Income 3                   | $3,000   |
+----------------------------------------------
+Total Income               | $13,500  |
+
+Expenses                   | Amount   | Remarks
+----------------------------------------------
+Expense 1                  | $500     |
+Expense 2                  | $1,000   |
+Expense 3                  | $800     |
+Expense 4                  | $1,100   |
+Expense 5                  | $1,800   |
+Expense 6                  | $1,250   |
+Expense 7                  | $1,000   |
+Expense 8                  | $3,500   |
+----------------------------------------------
+Total Expenses             | $10,950  |
+Net Income                 | $2,550   |
